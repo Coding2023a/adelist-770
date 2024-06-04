@@ -1,0 +1,28 @@
+/* h1{
+    color: rgb(251, 255, 240)
+     solid;2px rgb
+
+
+color: palegoldenrod;
+border: 2px solid rgb(47, 255, 186);
+background-color: lightpink;} */
+h1 {
+    color: rgb(206, 182, 46);
+}
+#container {
+    display: flex;
+    justify-content: space-around;
+}
+html {
+    background-color: rgb(143, 183, 188);
+}
+.buttons {
+    background-color: rgb(230, 255, 173);
+    padding: 3%;
+    border-radius: 50%;
+}
+    p {
+        color: darkturquoise;
+    }
+    
+    
